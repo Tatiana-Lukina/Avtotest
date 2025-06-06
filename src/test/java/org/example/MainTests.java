@@ -1,4 +1,3 @@
-// MainTests.java
 package org.example;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
