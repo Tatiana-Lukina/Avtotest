@@ -1,4 +1,3 @@
-// MainPage.java
 package org.example;
 
 import org.openqa.selenium.*;
